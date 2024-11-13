@@ -9,6 +9,14 @@ class Soccer extends Sports{
     }
 
 }
+class Sports{
+    String getName(){
+        return "Generic Sports";
+    }
+    void getNumberOfTeamMembers(){
+        System.out.println( "Each team has n players in " + getName() );
+    }
+}
 public class Java_MethodOverriding {
     public static void main(String []args){
         Sports c1 = new Sports();
