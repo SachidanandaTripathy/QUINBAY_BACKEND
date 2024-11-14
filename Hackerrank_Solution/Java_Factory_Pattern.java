@@ -29,7 +29,7 @@ interface Food {
 }//End of getFood method
 
 	}
-public class Factory_class {
+public class Java_Factory_Pattern {
     public static void main(String args[]){
 			Do_Not_Terminate.forbidExit();
 
