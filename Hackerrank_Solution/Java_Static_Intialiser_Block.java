@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Java_Static_Block_Intialiser {
+public class Java_Static_Intialiser_Block {
     static int B;
     static int H;
     static boolean flag = true;
